@@ -7,7 +7,7 @@ Data and code for analyses contained in "Rootstock effects on scion phenotypes i
 Average morphometric data for each vine (283 vines in 2014 and 286 vines in 2016) is available in the 'mt_vernon_morpho_imagej_all_info.txt' file. R code for analyses is in the script `mt_vernon_code.R` (lines 1-137). 
 
 ### Persistent Homology
-Average persistent homology data for each vine (283 vines in 2014 and 286 vines in 2016) is available in the 'mt_vernon_morpho_imagej_all_info.txt' file. R code for analyses is in the script `mt_vernon_code.R` (lines 140-292). 
+Average persistent homology data for each vine (283 vines in 2014 and 286 vines in 2016) is available in the `mt_vernon_morpho_imagej_all_info.txt` file. R code for analyses is in the script `mt_vernon_code.R` (lines 140-292). 
 
 ### Ionomics
 Ion concentrations from three leaves (young, middle, and old from a single shoot) from 288 vines for a total of 794 leaves in 2014 and 846 leaves in 2016 following outlier removal, are available in the file `mt_vernon_ionomics_2014_2016_all_data_with_vineyard_info.txt`. R code for analyses is in the script `mt_vernon_code.R` (lines 295-525).
